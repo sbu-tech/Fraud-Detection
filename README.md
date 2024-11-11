@@ -14,7 +14,6 @@ License
 
 Features
 Data Preprocessing: Log transformation, handling missing values, and scaling.
-Class Balancing: Techniques like SMOTE to address class imbalance between fraud and non-fraud transactions.
 Visualization: Visualizing transaction counts over time and plotting feature distributions.
 Modeling: Training with machine learning models such as Random Forest and evaluating their performance.
 
